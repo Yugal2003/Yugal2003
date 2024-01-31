@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yugal and I'm a developer!</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h2 align="center">A passionate frontend developer from India.</h2>
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmgxdmplbHh3ZDl5bTBudWt0dW5zZ2JudzFqcWU4cDg0dDF4NHdzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="350" alt="Logo">
 
 - 🏫: I'm a BCA Student.
