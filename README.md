@@ -1,6 +1,6 @@
 <h1 align="center">I'm <strong>Yugal Kumbhare</strong> <img align="center" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif?raw=true" width="70" heigth="70"></h1>
 <h2 align="center">A passionate frontend developer from India.</h2>
-<img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"  width="380" heigth="250"  alt="Logo">
+<img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"  width="320" heigth="180"  alt="Logo">
 
 - 🏫: I'm a BCA Student.
 
