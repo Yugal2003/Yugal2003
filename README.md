@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yugal and I'm a developer!</h1>
 <h2 align="center">A passionate frontend developer from India.</h2>
-<img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="450" heigth="300" alt="Logo">
+<img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="380" heigth="250" alt="Logo">
 
 - 🏫: I'm a BCA Student.
 
