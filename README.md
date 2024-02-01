@@ -1,4 +1,4 @@
-<h1 align="center">I'm <strong>Yugal Kumbhare</strong> <img align="center" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif?raw=true" width="70" heigth="70"></h1>
+<h1 align="center">I'm <a href="https://github.com/Yugal2003">Yugal Kumbhare</a></a> <img align="center" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif?raw=true" width="70" heigth="70"></h1>
 <h2 align="center">A passionate frontend developer from India.</h2>
 <img align="right" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"  width="420" heigth="280"  alt="Logo">
 
