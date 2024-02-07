@@ -1,6 +1,6 @@
 <h1 align="center">I'm <a href="https://github.com/Yugal2003" target="_blank">Yugal Kumbhare</a> <img align="center" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif?raw=true" width="70" heigth="70"></h1>
 <h2 align="center">A passionate frontend developer from India.</h2>
-<img  align="right" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"  width="330" heigth="190"  alt="Logo">
+<img  align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  width="330" heigth="190"  alt="Logo">
 
 - 🏫: I'm a BCA Student.
 
