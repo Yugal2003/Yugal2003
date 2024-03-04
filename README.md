@@ -4,7 +4,7 @@
 
 - 🏫: I'm a BCA Student.
 
-- 🔭: I’m currently working on Small JavaScript projects.
+- 🔭: I’m currently working on React projects.
 
 - 🌱: I’m currently learning **Frontend Frameworks.**
 
