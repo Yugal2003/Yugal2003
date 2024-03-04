@@ -10,7 +10,7 @@
 
 - 💬 Ask me about: **DSA, Java, Frontend Development.**
 
-- 😄 Pronouns: He/His
+- 😄 Pronouns: he/him
 
 - ⚡ Hobbies : **Play Cricket, Learning New Things...**
 
