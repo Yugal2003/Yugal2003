@@ -8,7 +8,7 @@
 
 - 🌱: I’m currently learning **Frontend Frameworks.**
 
-- 💬 Ask me about: **DSA, Java, Frontend Development.**
+- 💬 Ask me about: **Frontend Development,DSA,Java Language**
 
 - 😄 Pronouns: he/him
 
