@@ -1,18 +1,18 @@
 <h1 align="center">I'm <a href="https://github.com/Yugal2003" target="_blank">Yugal Kumbhare</a> <img align="center" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif?raw=true" width="70" heigth="70"></h1>
 <h2 align="center">A Passionate Frontend Developer From India.</h2>
-<img  align="right" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif"  width="300" heigth="175"  alt="Logo">
+<!-- <img  align="right" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif"  width="300" heigth="175"  alt="Logo"> -->
 
-- 🏫: I'm a BCA Background Student.
+      - 🏫: I'm a BCA Background Student.
 
-- 🔭: I’m currently working on React projects.
-
-- 🌱: I’m currently learning **Frontend Frameworks.**
-
-- 💬 Ask me about: **Frontend Development,DSA,Java Language**
-
-- 😄 Pronouns: he/him
-
-- ⚡ Hobbies : **Play Cricket, Learning New Things...**
+      - 🔭: I’m currently working on React projects.
+      
+      - 🌱: I’m currently learning **Frontend Frameworks.**
+      
+      - 💬 Ask me about: **Frontend Development,DSA,Java Language**
+      
+      - 😄 Pronouns: he/him
+      
+      - ⚡ Hobbies : **Play Cricket, Learning New Things...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
